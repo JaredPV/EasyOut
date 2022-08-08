@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/inicio"
+        android:title="Inicio" />
+    <item
+        android:id="@+id/tarifa"
+        android:title="Tarifas de Servicio" />
+    <item
+        android:id="@+id/mapa"
+        android:title="Mapa de Cajones" />
+    <item
+        android:id="@+id/perfil"
+        android:title="Mi Perfil" />
+    <item
+        android:id="@+id/ayuda"
+        android:title="Ayuda" />
+</menu>
